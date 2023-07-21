@@ -11,6 +11,13 @@ int main(){
     float foodAmount, alcoholAmount, entertainmentAmount, necessityAmount;
     float foodPercentage, alcoholPercentage, entertainmentPercentage, necessityPercentage;
 
+    int foodArray[4]
+
+    //backup categories
+    float BUfoodAmount, BUalcoholAmount, BUentertainmentAmount, BUnecessityAmount;
+    float BUfoodPercentage, BUalcoholPercentage, BUentertainmentPercentage, BUnecessityPercentage;
+
+    //float values
     amountDenominator = 0.00;
     foodAmount = 0.00;
     alcoholAmount = 0.00;
